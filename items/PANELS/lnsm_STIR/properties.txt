@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Единственное отличие от обычной лестницы - она динамичнее :)"
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/stairs.png"
+	}
+}

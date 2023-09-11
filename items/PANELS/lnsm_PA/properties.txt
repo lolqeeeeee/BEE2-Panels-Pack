@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Активируемые панели модели - A"
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/panel_flap.png"
+	}
+}

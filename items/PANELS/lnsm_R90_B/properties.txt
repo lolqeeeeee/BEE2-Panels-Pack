@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Специальная выдвижная панель в 90 градусов модели - B"
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/airlock.png"
+	}
+}

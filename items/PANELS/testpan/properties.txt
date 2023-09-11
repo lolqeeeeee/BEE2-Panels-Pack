@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Тестовая панель, сделанная лично для того, чтобы вспомнить: как делать пакет для Bee"
+	"infoURL"		"https:/\/google.com/"
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/turret.png"
+	}
+}

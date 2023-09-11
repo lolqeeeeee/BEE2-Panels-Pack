@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Секретная дверь, которая позволит создавать тайные пути"
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/airlock.png"
+	}
+}

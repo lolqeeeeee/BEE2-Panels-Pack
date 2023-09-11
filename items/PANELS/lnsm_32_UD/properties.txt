@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"lolqeeeeee"
+	"Tags"			"Panels"
+	"Description"	"Малая панель, которая выдвигается вверх."
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"clean/turret.png"
+	}
+}
