@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "89"
+	"mapversion" "90"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "89"
+	"mapversion" "90"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1537,9 +1537,9 @@ entity
 	"targetname" "close"
 	connections
 	{
-		"OnTrigger" "panel_9SetAnimation3arms_destroyed_01_idleend0-1"
-		"OnTrigger" "panel_3SetAnimation3arms_destroyed_02_idleend0-1"
-		"OnTrigger" "panel_5SetAnimation3arms_destroyed_03_idleend0-1"
+		"OnTrigger" "panel_5SetAnimation3arms_destroyed_03_idle0-1"
+		"OnTrigger" "panel_3SetAnimation3arms_destroyed_02_idle0-1"
+		"OnTrigger" "panel_9SetAnimation3arms_destroyed_01_idle0-1"
 	}
 	"origin" "-10.5579 43 -55"
 	editor
