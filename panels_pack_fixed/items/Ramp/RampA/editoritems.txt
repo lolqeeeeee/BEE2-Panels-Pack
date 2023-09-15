@@ -9,7 +9,7 @@
 			}
 			"Palette" {
 				"Tooltip"	"90* Panel"
-				"Image"		"palette/lnsm/P_PU_32.png"
+				"Image"		"palette/lnsm/P_R_A.png"
 				"Position"	"1 6 0"
 			}
 		    "Sounds" {

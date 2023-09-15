@@ -5,6 +5,6 @@
 	"infoURL"		""
 	"Ent_count"     "0"
 	"Icon" {
-		"0"	"lnsm/P_PU_32.png"
+		"0"	"lnsm/P_R_B.png"
 	}
 }

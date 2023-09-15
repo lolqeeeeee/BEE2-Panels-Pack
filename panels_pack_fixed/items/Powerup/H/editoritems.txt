@@ -9,7 +9,7 @@
 			}
 			"Palette" {
 				"Tooltip"	"Powerup panels (H)"
-				"Image"		"palette/lnsm/P_POW_B.png"
+				"Image"		"palette/lnsm/P_POW_H.png"
 				"Position"	"1 6 0"
 			}
 		    "Sounds" {
