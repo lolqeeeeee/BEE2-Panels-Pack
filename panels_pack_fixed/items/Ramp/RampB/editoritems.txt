@@ -3,13 +3,13 @@
     "ItemClass" "ItemButtonFloor"
     "Editor" {
         "SubType" {
-			"Name" "Powerup panels (I)"
+			"Name" "90* Panel-B"
 			"Model" {
 				"ModelName"		"arm4_blk_90deg.3ds"
 			}
 			"Palette" {
-				"Tooltip"	"Powerup panels (I)"
-				"Image"		"palette/lnsm/P_POW_A.png"
+				"Tooltip"	"90* Panel-B"
+				"Image"		"palette/lnsm/P_PU_32.png"
 				"Position"	"1 6 0"
 			}
 		    "Sounds" {
@@ -42,31 +42,31 @@
 	"Exporting" {
 		"Instances" {
 			"0" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_CW.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_CW.vmf"
 				"EntityCount" "2"
 			}
 			"1" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_CB.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_CB.vmf"
 				"EntityCount" "2"
 			}
 			"2" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_OW.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_OW.vmf"
 				"EntityCount" "2"
 			}
 			"3" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_OB.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_OB.vmf"
 				"EntityCount" "2"
 			}
 			"4" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_BW.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_BW.vmf"
 				"EntityCount" "2"
 			}
 			"5" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_BB.vmf"
+				"Name" "instances/BEE2/lnsm_rb/lnsm_rb_BB.vmf"
 				"EntityCount" "2"
 			}
 		}
-		"TargetName" "PowerupIPan"
+		"TargetName" "RampBPanel"
 		"Offset" "64 64 64"
 		"Inputs" {
 			"CONNECTION_STANDARD" {
@@ -106,16 +106,10 @@
 			"Voxel" {
 				"Pos" "0 0 0"
 			}
-			"Voxel" {
-				"Pos" "0 1 0"
-			}
 		}
 		"EmbeddedVoxels" {
 			"Voxel" {
 				"Pos" "0 0 0"
-			}
-			"Voxel" {
-				"Pos" "0 1 0"
 			}
 		}
 	}

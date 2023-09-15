@@ -3,12 +3,12 @@
     "ItemClass" "ItemButtonFloor"
     "Editor" {
         "SubType" {
-			"Name" "Powerup panels (I)"
+			"Name" "Powerup panels (K)"
 			"Model" {
 				"ModelName"		"arm4_blk_90deg.3ds"
 			}
 			"Palette" {
-				"Tooltip"	"Powerup panels (I)"
+				"Tooltip"	"Powerup panels (K)"
 				"Image"		"palette/lnsm/P_POW_A.png"
 				"Position"	"1 6 0"
 			}
@@ -42,31 +42,31 @@
 	"Exporting" {
 		"Instances" {
 			"0" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_CW.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_pk_CW.vmf"
 				"EntityCount" "2"
 			}
 			"1" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_CB.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_pk_CB.vmf"
 				"EntityCount" "2"
 			}
 			"2" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_OW.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_PA_OW.vmf"
 				"EntityCount" "2"
 			}
 			"3" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_OB.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_pk_OB.vmf"
 				"EntityCount" "2"
 			}
 			"4" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_BW.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_pk_BW.vmf"
 				"EntityCount" "2"
 			}
 			"5" {
-				"Name" "instances/BEE2/lnsm_pi/lnsm_pi_BB.vmf"
+				"Name" "instances/BEE2/lnsm_pk/lnsm_pk_BB.vmf"
 				"EntityCount" "2"
 			}
 		}
-		"TargetName" "PowerupIPan"
+		"TargetName" "PowerupKPan"
 		"Offset" "64 64 64"
 		"Inputs" {
 			"CONNECTION_STANDARD" {

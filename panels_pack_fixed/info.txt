@@ -67,6 +67,39 @@
 }
 
 "Item" {
+    "ID" "ITEM_PP_RAMP_A"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Ramp/RampA"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_RAMP_B"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Ramp/RampB"
+        }
+    }
+}
+
+"Item" {
     "ID" "ITEM_PP_POW_A"
     "Description" {
         "" "Test"
@@ -98,7 +131,6 @@
         }
     }
 }
-
 "Item" {
     "ID" "ITEM_PP_POW_C"
     "Description" {
@@ -115,7 +147,6 @@
         }
     }
 }
-
 "Item" {
     "ID" "ITEM_PP_POW_D"
     "Description" {
@@ -178,6 +209,22 @@
         "ID" "VER_DEFAULT"
         "Styles" {
             "ANY_STYLE" "Powerup/I"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_POW_K"
+    "Description" {
+        "" "Do not use in corners"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/K"
         }
     }
 }
