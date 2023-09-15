@@ -1,0 +1,152 @@
+"ID" "LNSM_PanPack"
+"Name" "Panels Pack by lolqeeeeee"
+"Desc" ""
+"Item" {
+    "ID" "ITEM_PP_32UD"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "UpDown/32"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_64UD"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "UpDown/64"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_128UD"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "UpDown/128"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_224UD"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "UpDown/224"
+        }
+    }
+}
+
+"Item" {
+    "ID" "ITEM_PP_POW_A"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/A"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_POW_B"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/B"
+        }
+    }
+}
+
+"Item" {
+    "ID" "ITEM_PP_POW_C"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/C"
+        }
+    }
+}
+
+"Item" {
+    "ID" "ITEM_PP_POW_D"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/D"
+        }
+    }
+}
+
+
+"Item" {
+    "ID" "ITEM_PP_TESTPAN"
+    "Description" {
+        "" "TEST"
+        "" ""
+        "" "* TEST"
+        "" "* TEST"
+        "" "* TEST"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "UpDown/testpan"
+        }
+    }
+}

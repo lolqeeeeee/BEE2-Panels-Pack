@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"Aperture Science, lolqeeeeee"
+	"Tags"			"Panels, Up-Down panels"
+	"Description"	""
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"lnsm/P_PU_224.png"
+	}
+}

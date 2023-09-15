@@ -1,0 +1,10 @@
+"Properties" {
+	"Authors"		"Aperture Science, lolqeeeeee"
+	"Tags"			"Panels, Powerup panels"
+	"Description"	""
+	"infoURL"		""
+	"Ent_count"     "0"
+	"Icon" {
+		"0"	"lnsm/P_POW_B.png"
+	}
+}
