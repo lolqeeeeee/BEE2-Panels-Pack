@@ -133,6 +133,54 @@
     }
 }
 
+"Item" {
+    "ID" "ITEM_PP_POW_G"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/G"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_POW_H"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/H"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_POW_I"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Powerup/I"
+        }
+    }
+}
 
 "Item" {
     "ID" "ITEM_PP_TESTPAN"
