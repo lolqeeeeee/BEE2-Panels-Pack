@@ -98,6 +98,104 @@
         }
     }
 }
+"Item" {
+    "ID" "ITEM_PP_RAMP_A64"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Ramp/RampA64"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_RAMP_B64"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Ramp/RampB64"
+        }
+    }
+}
+
+"Item" {
+    "ID" "ITEM_PP_DOOR_A"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Door/DoorA"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_DOOR_B"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Door/DoorB"
+        }
+    }
+}
+
+"Item" {
+    "ID" "ITEM_PP_128_90"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "128pan/90"
+        }
+    }
+}
+"Item" {
+    "ID" "ITEM_PP_128_UP"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "128pan/up"
+        }
+    }
+}
 
 "Item" {
     "ID" "ITEM_PP_POW_A"
