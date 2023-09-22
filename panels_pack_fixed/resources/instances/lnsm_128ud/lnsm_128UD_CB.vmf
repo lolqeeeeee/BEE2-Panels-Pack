@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "25"
+	"mapversion" "27"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -202,7 +202,7 @@ entity
 	"Solidity" "0"
 	"spawnflags" "2"
 	"StartDisabled" "0"
-	"targetname" "px"
+	"targetname" "px3"
 	"vrad_brush_cast_shadows" "0"
 	solid
 	{
@@ -310,7 +310,7 @@ entity
 	"Solidity" "0"
 	"spawnflags" "2"
 	"StartDisabled" "0"
-	"targetname" "px"
+	"targetname" "px4"
 	"vrad_brush_cast_shadows" "0"
 	solid
 	{
@@ -418,7 +418,7 @@ entity
 	"Solidity" "0"
 	"spawnflags" "2"
 	"StartDisabled" "0"
-	"targetname" "px"
+	"targetname" "px1"
 	"vrad_brush_cast_shadows" "0"
 	solid
 	{
@@ -526,7 +526,7 @@ entity
 	"Solidity" "0"
 	"spawnflags" "2"
 	"StartDisabled" "0"
-	"targetname" "px"
+	"targetname" "px2"
 	"vrad_brush_cast_shadows" "0"
 	solid
 	{
@@ -737,8 +737,11 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "pxSetParentAttachmentMaintainOffsetpanel_attach0-1"
 		"OnMapSpawn" "branch_toggleTest0-1"
+		"OnMapSpawn" "px4SetParentAttachmentMaintainOffsetpanel_attach0-1"
+		"OnMapSpawn" "px3SetParentAttachmentMaintainOffsetpanel_attach0-1"
+		"OnMapSpawn" "px2SetParentAttachmentMaintainOffsetpanel_attach0-1"
+		"OnMapSpawn" "px1SetParentAttachmentMaintainOffsetpanel_attach0-1"
 	}
 	"origin" "-32 0 -56"
 	editor

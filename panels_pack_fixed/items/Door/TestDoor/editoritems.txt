@@ -3,12 +3,12 @@
     "ItemClass" "ItemButtonFloor"
     "Editor" {
         "SubType" {
-			"Name" "Secret Door"
+			"Name" "TestDoor"
 			"Model" {
 				"ModelName"		"arm4_blk_90deg.3ds"
 			}
 			"Palette" {
-				"Tooltip"	"Secret Door"
+				"Tooltip"	"TestDoor"
 				"Image"		"palette/lnsm/P_DA.png"
 				"Position"	"1 6 0"
 			}
@@ -42,31 +42,31 @@
 	"Exporting" {
 		"Instances" {
 			"0" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_CW.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 			"1" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_CB.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 			"2" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_OW.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 			"3" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_OB.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 			"4" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_BW.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 			"5" {
-				"Name" "instances/BEE2/lnsm_da/lnsm_da_BB.vmf"
+				"Name" "instances/BEE2/tetdoor/glass_door.vmf"
 				"EntityCount" "2"
 			}
 		}
-		"TargetName" "SecDoorA"
+		"TargetName" "TestDoor"
 		"Offset" "64 64 64"
 		"Inputs" {
 			"CONNECTION_STANDARD" {

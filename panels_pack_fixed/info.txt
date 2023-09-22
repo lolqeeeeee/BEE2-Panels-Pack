@@ -132,6 +132,23 @@
 }
 
 "Item" {
+    "ID" "ITEM_PP_TESTDOOR"
+    "Description" {
+        "" "Test"
+        "" ""
+        "" "* Standart"
+        "" "* Cube"
+        "" "* Sphere"
+    }
+    "Version" {
+        "ID" "VER_DEFAULT"
+        "Styles" {
+            "ANY_STYLE" "Door/TestDoor"
+        }
+    }
+}
+
+"Item" {
     "ID" "ITEM_PP_DOOR_A"
     "Description" {
         "" "Test"
