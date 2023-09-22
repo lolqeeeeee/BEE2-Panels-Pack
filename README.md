@@ -1,3 +1,3 @@
-Um... Hello?
+**Greetings, scientist!** 
 
-If you found this repository, then you are interested in downloading the panels assembly! I'm glad you're interested, but I have a request. If you know better how to work with Hammer, then I will ask you to fix the bugs, unfortunately I myself am not able to...
+Most of the Aperture Science test wing is non-dynamic and perfectly assembled. We have developed a special package for you with panels, thanks to which you can bring life to your test area!
